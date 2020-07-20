@@ -1,2 +1,2 @@
 # alyssaluna.github.io
-Portfolio
+[Resume](alyssaluna.github.io/resume)
